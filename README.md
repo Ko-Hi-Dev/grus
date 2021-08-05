@@ -27,7 +27,7 @@ Building TWRP for Xiaomi Mi9 SE
 
 - ADB
 
-- Decryption userdata 10-11 ???
+- Decryption userdata of all current MIUI versions as of MIUI 12.5 Android 11!
 
 - Screen brightness settings
 
